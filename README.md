@@ -8,7 +8,7 @@ Além de um botão de "Gerenciar Projetos", que redireciona para a aba de projet
 3. Nessa aba de projetos, temos todos os projetos organizados em forma de lista, com a opção
 de criar um novo projeto, editar ou excluir.
 # Login
-1. É feito pelo google normalmente, com o Google OAuth 2.0 via Supabase Auth.  
+1. É feito pelo google, com o Google OAuth 2.0 via Supabase Auth.  
 # Banco
 1. Usei o Supabase, as chaves estão nos arquivos .env.
 # Como Rodar
