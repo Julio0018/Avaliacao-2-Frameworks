@@ -8,10 +8,10 @@ Além de um botão de "Gerenciar Projetos", que redireciona para a aba de projet
 3. Nessa aba de projetos, temos todos os projetos organizados em forma de lista, com a opção
 de criar um novo projeto, editar ou excluir.
 # Login
-1. É feito pelo google normalmente.   
+1. É feito pelo google normalmente, com o Google OAuth 2.0 via Supabase Auth.  
 # Banco
-1. Usei o Supabase.
+1. Usei o Supabase, as chaves estão nos arquivos .env.
 # Como Rodar
 1. Backend: cd backend, npm install, npm run dev.
 2. Frontend: cd frontend, npm install, npm run dev.
-3. Será executado em http://localhost:5173
+3. Será executado em http://localhost:5173.
